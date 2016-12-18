@@ -30,5 +30,17 @@ Eulerian Smoke Simulation & Mathematical Foundation: <[FLUID SIMULATION SIGGRAPH
     ```
 
 ### Result (.png)
-  - Obstacle: 
-  - No obstacle: 
+  - Obstacle: ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0030.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0040.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0050.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0060.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0070.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0080.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0090.png)
+  - No obstacle: ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0030.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0040.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0050.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0060.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0070.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0080.png)
+  ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0090.png)

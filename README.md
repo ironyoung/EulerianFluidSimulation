@@ -1,6 +1,5 @@
 # EulerianFluidSimulation
-Physically-based Eulerian (Grid-based) Fluid Simulation: Smoke Simulator
-
+Physically-based Eulerian (Grid-based) Fluid Simulation: Smoke Simulator  
 Eulerian Smoke Simulation & Mathematical Foundation: <[FLUID SIMULATION SIGGRAPH 2007 Course Notes](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)>
 
 ### Installation
@@ -31,5 +30,5 @@ Eulerian Smoke Simulation & Mathematical Foundation: <[FLUID SIMULATION SIGGRAPH
     ```
 
 ### Result (.png)
-  - With obstacle: 
-  - Without obstacle: 
+  - Obstacle: 
+  - No obstacle: 

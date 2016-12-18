@@ -1,5 +1,6 @@
 # EulerianFluidSimulation
 Physically-based Eulerian (Grid-based) Fluid Simulation: Smoke Simulator  
+The Code is based on: http://www.cs.cornell.edu/~tedkim/WTURB/  
 Eulerian Smoke Simulation & Mathematical Foundation: <[FLUID SIMULATION SIGGRAPH 2007 Course Notes](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)>
 
 ### Installation
@@ -37,7 +38,7 @@ Eulerian Smoke Simulation & Mathematical Foundation: <[FLUID SIMULATION SIGGRAPH
   ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0070.png)
   ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0080.png)
   ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/with_density_fullxy_0090.png)
-  - No obstacle: ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0030.png)
+  - No Obstacle: ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0030.png)
   ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0040.png)
   ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0050.png)
   ![image](https://raw.githubusercontent.com/ironyoung/EulerianFluidSimulation/master/result/without_density_fullxy_0060.png)
